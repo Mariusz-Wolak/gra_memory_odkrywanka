@@ -1,0 +1,14 @@
+D:\M\UJK\praca_inzynierska\Gra\2\Gra\obj\x86\Release\Gra.Form1.resources
+D:\M\UJK\praca_inzynierska\Gra\2\Gra\obj\x86\Release\Gra.Properties.Resources.resources
+D:\M\UJK\praca_inzynierska\Gra\2\Gra\obj\x86\Release\Gra.csproj.GenerateResource.Cache
+C:\M\UJK\Inżynier\Gra\16\Gra\bin\Release\Gra.exe.manifest
+C:\M\UJK\Inżynier\Gra\16\Gra\bin\Release\Gra.application
+C:\M\UJK\Inżynier\Gra\16\Gra\bin\Release\Gra.exe
+C:\M\UJK\Inżynier\Gra\16\Gra\bin\Release\Gra.pdb
+C:\M\UJK\Inżynier\Gra\16\Gra\obj\x86\Release\Gra.Form1.resources
+C:\M\UJK\Inżynier\Gra\16\Gra\obj\x86\Release\Gra.Properties.Resources.resources
+C:\M\UJK\Inżynier\Gra\16\Gra\obj\x86\Release\Gra.csproj.GenerateResource.Cache
+C:\M\UJK\Inżynier\Gra\16\Gra\obj\x86\Release\Gra.exe.manifest
+C:\M\UJK\Inżynier\Gra\16\Gra\obj\x86\Release\Gra.application
+C:\M\UJK\Inżynier\Gra\16\Gra\obj\x86\Release\Gra.exe
+C:\M\UJK\Inżynier\Gra\16\Gra\obj\x86\Release\Gra.pdb
